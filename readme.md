@@ -17,8 +17,6 @@ you can collaborate creating new layouts for other applications.
 
 Find out more [about project](https://joanperamas.com/modern-css-grid-layouts).
 
-
-Made by [Joan Peramás](https://joanperamas.com/)
 -------------------
 
 \ ゜o゜)ノ
