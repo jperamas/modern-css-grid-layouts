@@ -15,7 +15,7 @@ you can see the layout 2 [here](https://jperamas.github.io/modern-css-grid-layou
 
 you can collaborate creating new layouts for other applications.
 
-Find out more [about project](https://joanperamas.com/modern-css-grid-layouts).
+Find out more [about project](https://joanperamas.com/css-grid-layouts/).
 
 -------------------
 
