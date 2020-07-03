@@ -5,10 +5,12 @@ Seeks to recreate existing app layouts using modern **CSS grid** and **Flex box*
 
 **ms teams** is the first recreated layout.
 
-you can see the layout 1 [here](https://jperamas.github.io/modern-css-grid-layouts/css-grid-layouts/ms-teams/index.html).
+you can see the layout 1 [here](https://jperamas.github.io/modern-css-grid-layouts/css-grid-layouts/ms-teams/index.html){:target="_blank"}.
+
 ![Layout 1](https://jperamas.github.io/modern-css-grid-layouts/assets/layout-1.png)
 
-you can see the layout 2 [here](https://jperamas.github.io/modern-css-grid-layouts/css-grid-layouts/ms-teams/transmission.html).
+you can see the layout 2 [here](https://jperamas.github.io/modern-css-grid-layouts/css-grid-layouts/ms-teams/transmission.html){:target="_blank"}.
+
 ![Layout 2](https://jperamas.github.io/modern-css-grid-layouts/assets/layout-2.png)
 
 you can collaborate creating new layouts for other applications.
